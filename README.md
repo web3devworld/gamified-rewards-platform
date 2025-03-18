@@ -1,3 +1,5 @@
+This Gamified Rewards Platform is using React.js, Polygon, Solidity, and IPFS, and is organized into several files. Below is the complete structure of the project, along with the code for each file. This setup assumes you're using Hardhat for smart contract development, ethers.js for blockchain interactions, and Pinata for IPFS integration.
+
 gamified-rewards-platform/
 ├── frontend/
 │   ├── public/
